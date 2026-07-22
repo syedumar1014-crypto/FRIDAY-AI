@@ -1,0 +1,11 @@
+{
+  "name": "FRIDAY AI",
+  "description": "Futuristic AI Operating System & Personal Assistant inspired by Tony Stark's FRIDAY.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
